@@ -1,0 +1,1 @@
+this a project created using python and its tkinter framework for user interface in this project you can save and password which are very difficult to remember not only you have to give password it can also generate password and save for you in text file.
